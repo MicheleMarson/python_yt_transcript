@@ -1,0 +1,450 @@
+[
+    {
+        "text": "Today we will be doing a Quick Copy review and demo walkthrough.",
+        "start": 250,
+        "end": 4170,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8571953773498535,
+        "speaker": null
+    },
+    {
+        "text": "Quick Copy is a proven app that writes and rewrites unique and easy to read content using artificial intelligence.",
+        "start": 4550,
+        "end": 10950,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8790112137794495,
+        "speaker": null
+    },
+    {
+        "text": "Use Quick Copy to create competition crushing, eyecatching and Seofriendly marketing content.",
+        "start": 11690,
+        "end": 17180,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4915691018104553,
+        "speaker": null
+    },
+    {
+        "text": "Before we get started with a Quick Copy review, don't forget to subscribe to our YouTube channel and hit the notification Bell so you are notified when we upload new videos.",
+        "start": 17990,
+        "end": 27500,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5295358300209045,
+        "speaker": null
+    },
+    {
+        "text": "Right?",
+        "start": 28130,
+        "end": 28674,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.736008882522583,
+        "speaker": null
+    },
+    {
+        "text": "Let's get started with a Quick Copy review and demo walkthrough.",
+        "start": 28772,
+        "end": 32310,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7449737191200256,
+        "speaker": null
+    },
+    {
+        "text": "Let me show how Quick Copy tool can create high quality text covering all your copywriting need.",
+        "start": 33770,
+        "end": 40074,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8569968342781067,
+        "speaker": null
+    },
+    {
+        "text": "Dashboard as soon as you log in into your account, there's a dashboard where you can instantly access all of Quick's Copies features using the Sidebar navigation menu.",
+        "start": 40232,
+        "end": 51286,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5259984731674194,
+        "speaker": null
+    },
+    {
+        "text": "Scrolling down, we have a Quick video tutorial here.",
+        "start": 51358,
+        "end": 54366,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7521193027496338,
+        "speaker": null
+    },
+    {
+        "text": "Next to it you can see recently saved projects which you can conveniently move to or delete using corresponding buttons.",
+        "start": 54488,
+        "end": 63322,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.731689453125,
+        "speaker": null
+    },
+    {
+        "text": "Generating text with Quick Copy moving on to the key feature.",
+        "start": 63466,
+        "end": 67654,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8554233312606812,
+        "speaker": null
+    },
+    {
+        "text": "Generating high quality Content In the main menu, you can see all these categories you can create text for, but that's not all.",
+        "start": 67762,
+        "end": 75858,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6300246715545654,
+        "speaker": null
+    },
+    {
+        "text": "Yet.",
+        "start": 75884,
+        "end": 76290,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6537611484527588,
+        "speaker": null
+    },
+    {
+        "text": "Each menu has sub categories, so AI knows exactly what text it should generate to suit your needs best.",
+        "start": 76400,
+        "end": 84114,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7096458077430725,
+        "speaker": null
+    },
+    {
+        "text": "For example, here in Video and Audio Category, we get all the options for Facebook, YouTube, Radio and Voiceover.",
+        "start": 84212,
+        "end": 91834,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6544740200042725,
+        "speaker": null
+    },
+    {
+        "text": "Choose Category and subcategory that describes your text best.",
+        "start": 91942,
+        "end": 96354,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7657191753387451,
+        "speaker": null
+    },
+    {
+        "text": "Click Get Started and AI will generate the best text possible for that exact placement.",
+        "start": 96452,
+        "end": 102514,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6289955973625183,
+        "speaker": null
+    },
+    {
+        "text": "We now have these two panels in front of us.",
+        "start": 102622,
+        "end": 105378,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8071403503417969,
+        "speaker": null
+    },
+    {
+        "text": "The right one gives us an editor window and on the left there's an AI generator interface.",
+        "start": 105464,
+        "end": 110818,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.765633761882782,
+        "speaker": null
+    },
+    {
+        "text": "Quantity of the input fields on the left depends on the category you've chosen.",
+        "start": 110914,
+        "end": 115798,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8624443411827087,
+        "speaker": null
+    },
+    {
+        "text": "Here we have two.",
+        "start": 115894,
+        "end": 117042,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7406629920005798,
+        "speaker": null
+    },
+    {
+        "text": "Product, brand name and description.",
+        "start": 117116,
+        "end": 119494,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7102466225624084,
+        "speaker": null
+    },
+    {
+        "text": "What we want to do here is to give Quick Copies some information on what text we need.",
+        "start": 119602,
+        "end": 124398,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.85582435131073,
+        "speaker": null
+    },
+    {
+        "text": "It doesn't have to be long, as you can see here we are limited by 150 words maximum, which is great as we don't want to write a lot of text.",
+        "start": 124484,
+        "end": 132846,
+        "sentiment": "POSITIVE",
+        "confidence": 0.4792841076850891,
+        "speaker": null
+    },
+    {
+        "text": "Let AI do its job.",
+        "start": 132968,
+        "end": 134730,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7396538853645325,
+        "speaker": null
+    },
+    {
+        "text": "Let's say I need a voiceover about Ikea.",
+        "start": 134900,
+        "end": 137842,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8265252709388733,
+        "speaker": null
+    },
+    {
+        "text": "Product name will be Ikea and in description I want to mention some key information.",
+        "start": 137926,
+        "end": 143094,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8650667667388916,
+        "speaker": null
+    },
+    {
+        "text": "Let it be best place to buy furniture.",
+        "start": 143252,
+        "end": 146710,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6637840867042542,
+        "speaker": null
+    },
+    {
+        "text": "Scandinavian interior, cheap and high quality.",
+        "start": 146830,
+        "end": 150846,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7414966821670532,
+        "speaker": null
+    },
+    {
+        "text": "Now we click Generate New Copy and see the magic happen in a matter of seconds.",
+        "start": 151028,
+        "end": 156310,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6951765418052673,
+        "speaker": null
+    },
+    {
+        "text": "We now have our variation here.",
+        "start": 156370,
+        "end": 158514,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7679069638252258,
+        "speaker": null
+    },
+    {
+        "text": "We can either delete it or add it to the editor.",
+        "start": 158612,
+        "end": 162118,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.747200071811676,
+        "speaker": null
+    },
+    {
+        "text": "Let's add this one.",
+        "start": 162214,
+        "end": 163290,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7453960180282593,
+        "speaker": null
+    },
+    {
+        "text": "You can create a new variation of text so using the same data by clicking Generate New Copy once again.",
+        "start": 163340,
+        "end": 168774,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8243086338043213,
+        "speaker": null
+    },
+    {
+        "text": "Or you can change title and description to get a different variation of text and you can repeat this process until you are satisfied with the result.",
+        "start": 168872,
+        "end": 176970,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8589864373207092,
+        "speaker": null
+    },
+    {
+        "text": "All Quick Copies tests are unique and will pass like a recent checklist.",
+        "start": 177080,
+        "end": 181894,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7822661399841309,
+        "speaker": null
+    },
+    {
+        "text": "Okay, let's return to the editor.",
+        "start": 182002,
+        "end": 184006,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8288881778717041,
+        "speaker": null
+    },
+    {
+        "text": "Here we have tools to style our text, add links and insert images so you can do all the basic text customizations in Quick Copy and then copy paste the style text anywhere you want.",
+        "start": 184078,
+        "end": 197058,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6018370985984802,
+        "speaker": null
+    },
+    {
+        "text": "To save this project, click on Save, Copy Editing and Exporting Project to access your recently saved text, you can head to Dashboard and click Edit next to the one you need or you can click a menu item on the left to show a drop down and Select Save.",
+        "start": 197144,
+        "end": 219742,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8374794721603394,
+        "speaker": null
+    },
+    {
+        "text": "Once again, select the text you need and click Edit Editor is similar to what you've seen before, but here you get more options.",
+        "start": 219876,
+        "end": 228070,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6281834244728088,
+        "speaker": null
+    },
+    {
+        "text": "You can print your copy, preview it, add video, change text, color, change text, background, add emojis and code.",
+        "start": 228180,
+        "end": 240420,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8307910561561584,
+        "speaker": null
+    },
+    {
+        "text": "If you click on a question Mark, help window will pop up showing all the handy shortcuts to speed up your workflow.",
+        "start": 240750,
+        "end": 248738,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7366831302642822,
+        "speaker": null
+    },
+    {
+        "text": "Using menu on top of the editor, you can undo, Redo, search and Replace, View, Source code, insert and Edit table, as well as get more options to format your text.",
+        "start": 248834,
+        "end": 264720,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7724396586418152,
+        "speaker": null
+    },
+    {
+        "text": "Once you've finished editing your project, click on the Update Changes button.",
+        "start": 265530,
+        "end": 269554,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.866715133190155,
+        "speaker": null
+    },
+    {
+        "text": "Here we have additional buttons to export our text as a Doc or as a PDF file.",
+        "start": 269652,
+        "end": 275474,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8357328176498413,
+        "speaker": null
+    },
+    {
+        "text": "Personal Scripts If we scroll down to this menu item, we can access the Personal Scripts feature.",
+        "start": 275582,
+        "end": 282374,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.79549640417099,
+        "speaker": null
+    },
+    {
+        "text": "Once we click that, we'll see a list of all our previously created scripts and a button to create new.",
+        "start": 282482,
+        "end": 288574,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8773268461227417,
+        "speaker": null
+    },
+    {
+        "text": "Once we click that, full featured editor will open up, allowing you to easily create longer articles.",
+        "start": 288672,
+        "end": 294782,
+        "sentiment": "POSITIVE",
+        "confidence": 0.685599684715271,
+        "speaker": null
+    },
+    {
+        "text": "Open Personal Script in one browser window and Quick Copy Project in another one.",
+        "start": 294866,
+        "end": 299986,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8796855807304382,
+        "speaker": null
+    },
+    {
+        "text": "Place them side by side and you can easily copy paste multiple texts generated in different subcategories or event categories to create long reads, use cases Email Marketing Article Rewrite and summarizer Keyword Extractor SEO Metadata Generator Offered Generator using Aida, Pas and other marketing models Product Name Generator Quora Answer Assistant YouTube Ideas Generator Voiceover Script Product Reviews Engaging social media posts called Marketing and I can go on and on as Quick Copy has more than 80 AI optimized tag generation tools.",
+        "start": 300048,
+        "end": 347378,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5563190579414368,
+        "speaker": null
+    },
+    {
+        "text": "Support should you need help, there are two options how to Reach Support Desk I already mentioned the first profile image in the top right corner.",
+        "start": 347474,
+        "end": 356770,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8377286195755005,
+        "speaker": null
+    },
+    {
+        "text": "Click that and here Select Need Help or you can get to Support page by clicking the corresponding item in the main menu.",
+        "start": 357210,
+        "end": 365966,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.867917537689209,
+        "speaker": null
+    },
+    {
+        "text": "Once Support page is opened, you will see the form Fill that and Quick Copies.",
+        "start": 366098,
+        "end": 371666,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9071685075759888,
+        "speaker": null
+    },
+    {
+        "text": "Customer Support will be happy to help.",
+        "start": 371738,
+        "end": 374220,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8565048575401306,
+        "speaker": null
+    },
+    {
+        "text": "Thank you for watching this Quick Copy review and Demo walkthrough.",
+        "start": 374730,
+        "end": 378362,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9605902433395386,
+        "speaker": null
+    },
+    {
+        "text": "To find out more about Quick Copy, click the link in the description below.",
+        "start": 378506,
+        "end": 382180,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9341332316398621,
+        "speaker": null
+    }
+]
